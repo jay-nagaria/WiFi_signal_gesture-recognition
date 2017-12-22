@@ -1,0 +1,20 @@
+yfit = trainedModel_brightness.predictFcn("test_table");
+x = yfit(1);
+disp(x);
+for i=1:30
+    
+    if(yfit(i) == 'r2l')
+    
+    disp('brightness_down')
+    [status,cmdout]=dos("nircmd.exe changebrightness -10");
+    
+    else
+    disp('brightness_up')    
+    [status,cmdout]=dos("nircmd.exe changebrightness 10");
+    end
+        
+    
+    
+%disp(yfit(i));    
+end
+
