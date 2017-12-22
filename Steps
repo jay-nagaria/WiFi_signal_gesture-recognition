@@ -1,0 +1,9 @@
+Step 1: Data Gathering
+Step 2: Extracting features from raw data
+Step 3: Labelling data and Preparing table for learning
+Step 4: Importing data and visualizing
+Step 5: Applying Classification learning on the data
+Step 6: Create model with best results 
+Step 7: Test new data using the created model
+Step 8: Use the results obtained from the model to change system property accordingly
+Step 9: Enjoy !
