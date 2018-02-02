@@ -1,5 +1,5 @@
 Step 1: Data Gathering
-Step 2: Extracting features from raw data
+Step 2: Extracting Channel State Information from raw data
 Step 3: Labelling data and Preparing table for learning
 Step 4: Importing data and visualizing
 Step 5: Applying Classification learning on the data
