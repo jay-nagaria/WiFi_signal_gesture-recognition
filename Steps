@@ -17,8 +17,7 @@ Step 4: Labelling data and Preparing table for learning
 Step 5: Importing data and visualizing
 Step 6: Applying Classification learning on the data
 Step 7: Create model with best results 
+
 Step 8: Test new data using the created model
-        Use change_sys_setting.m to classify new data.
-        
 Step 9: Use the results obtained from the model to change system property accordingly
-        change_sys_setting.m
+        Use change_sys_settings.m to classify new data and change system property based on it.
